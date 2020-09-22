@@ -2,6 +2,17 @@ body {
   background-color: lightcyan;
 }
 
+.h1 {
+  font-size: 23px;
+}
+
+.flex-container {
+  font-size: 23px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
 .tinder {
   width: 100vw;
   height: 70vh;
